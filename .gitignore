@@ -1,7 +1,6 @@
 # Excel lock/temp files
 ~$*.xlsx
 *.tmp
-.python-version
 
 # OS
 .DS_Store
